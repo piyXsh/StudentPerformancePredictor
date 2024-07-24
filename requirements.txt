@@ -1,5 +1,8 @@
 pandas
 numpy
 seaborn
-
--e. # '-e.' -> either directly install 'setup.py'... or when installing these requirements(pip install -r requirements.txt), enable 'setup.py' to run in order to build the packages
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e. # '-e.' -> either directly install 'setup.py'... or when installing these requirements(pip install -r requirements.txt), enable 'setup.py' to run in order to build the packages
